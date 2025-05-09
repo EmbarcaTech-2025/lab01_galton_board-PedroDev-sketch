@@ -1,13 +1,13 @@
 
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Insira Seu Nome**
+Autor: **Pedro Teixeira Moriel Sanchez**
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
 Instituição: EmbarcaTech - HBr
 
-Campinas, ___ de 2025
+Brasília, Maio de 2025
 
 ---
 
